@@ -1,4 +1,5 @@
 # What is Platform Management?
+Modified for training purposes-Gita
 The platform management repository includes the Jenkins jobs and supporting scripts that facilitate:
 
 - Cartridges
